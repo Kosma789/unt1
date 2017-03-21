@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9c38512-abcb-47fe-836d-5263bdeaf582" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/untitled1.iml" afterPath="$PROJECT_DIR$/.idea/untitled1.iml" />
+    <list default="true" id="c9c38512-abcb-47fe-836d-5263bdeaf582" name="Default" comment="dister">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/modules/env.py" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/config/.gitignore" afterPath="$PROJECT_DIR$/config/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/data/.gitignore" afterPath="$PROJECT_DIR$/data/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/modules/.gitignore" afterPath="$PROJECT_DIR$/modules/.gitignore" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,11 +24,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="dister.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="dister.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/modules/dister.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+            <state relative-caret-position="126">
+              <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="env.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/env.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -45,6 +61,7 @@
       <list>
         <option value="$PROJECT_DIR$/modules/d.py" />
         <option value="$PROJECT_DIR$/modules/dister.py" />
+        <option value="$PROJECT_DIR$/modules/env.py" />
       </list>
     </option>
   </component>
@@ -335,6 +352,14 @@
       <option name="presentableId" value="Default" />
       <updated>1490115880627</updated>
     </task>
+    <task id="LOCAL-00001" summary="dister">
+      <created>1490117076856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1490117076856</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -378,8 +403,16 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/modules/dister.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        <state relative-caret-position="126">
+          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/env.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="20" lean-forward="false" selection-start-line="4" selection-start-column="20" selection-end-line="4" selection-end-column="20" />
           <folding />
         </state>
       </provider>
